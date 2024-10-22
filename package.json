@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badger/helloworld.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Bucky Badger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badger/helloworld/issues"
+  },
+  "homepage": "https://github.com/badger/helloworld#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
